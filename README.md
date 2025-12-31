@@ -4,7 +4,7 @@ Este projeto é um protótipo de demonstração desenvolvido para representar co
 O objetivo é apenas mostrar o design, a estrutura e a navegação, sem fins comerciais.
 
 Acesse o protótipo online:
-https://arthursantanasantos1.github.io/Site_Clinica/
+https://arthursantanasantos1.github.io/Site_Clinica-Prototipo/
 
 Sobre o Protótipo
 
